@@ -1,0 +1,11 @@
+.idLabel{
+    color: green;
+}
+.notFoundLabel{
+    padding-top: 15px;
+     color: red;
+ }
+
+.table{
+    padding-top: 15px;
+}
